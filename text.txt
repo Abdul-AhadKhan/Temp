@@ -1,0 +1,1 @@
+Write a program that reads the content of a text file and displays it on the console.
